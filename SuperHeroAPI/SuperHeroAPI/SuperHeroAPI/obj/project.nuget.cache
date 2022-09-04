@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XVBAFKLirvG1GIezIcFYwQ8AaSIb9VyUzoPC6VxNsltIpsObkG/LE7SJr5tWqS+gQG09vBurkfDiJGUvVnWhBw==",
+  "dgSpecHash": "ACvgjdsW2mZ56Fi1bzfO3ZVSgAieSUTt4fcnPe/1Gb9dHHj7P5JRRq21A2tjRytMoUH+Mqq1aanFEVj6Km8X3w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Epulapp\\Desktop\\CShar&Angular\\SuperHeroAPI\\SuperHeroAPI\\SuperHeroAPI\\SuperHeroAPI.csproj",
+  "projectFilePath": "C:\\Users\\Epulapp\\Desktop\\CSharpAngular3\\SuperHeroApp\\SuperHeroAPI\\SuperHeroAPI\\SuperHeroAPI\\SuperHeroAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Epulapp\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Epulapp\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

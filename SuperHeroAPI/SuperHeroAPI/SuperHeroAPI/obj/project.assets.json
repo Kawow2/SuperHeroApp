@@ -229,11 +229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Epulapp\\Desktop\\CShar&Angular\\SuperHeroAPI\\SuperHeroAPI\\SuperHeroAPI\\SuperHeroAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Epulapp\\Desktop\\CSharpAngular3\\SuperHeroApp\\SuperHeroAPI\\SuperHeroAPI\\SuperHeroAPI\\SuperHeroAPI.csproj",
       "projectName": "SuperHeroAPI",
-      "projectPath": "C:\\Users\\Epulapp\\Desktop\\CShar&Angular\\SuperHeroAPI\\SuperHeroAPI\\SuperHeroAPI\\SuperHeroAPI.csproj",
+      "projectPath": "C:\\Users\\Epulapp\\Desktop\\CSharpAngular3\\SuperHeroApp\\SuperHeroAPI\\SuperHeroAPI\\SuperHeroAPI\\SuperHeroAPI.csproj",
       "packagesPath": "C:\\Users\\Epulapp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Epulapp\\Desktop\\CShar&Angular\\SuperHeroAPI\\SuperHeroAPI\\SuperHeroAPI\\obj\\",
+      "outputPath": "C:\\Users\\Epulapp\\Desktop\\CSharpAngular3\\SuperHeroApp\\SuperHeroAPI\\SuperHeroAPI\\SuperHeroAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Epulapp\\AppData\\Roaming\\NuGet\\NuGet.Config",
